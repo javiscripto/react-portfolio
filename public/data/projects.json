@@ -2,31 +2,31 @@
     {
       "title": "PyLiveServer",
       "description": "pyLive server es una herramienta de desarrollo pensada inicialmente para editores basados en la terminal tales como helix, neovim  o zed, siendo una alternativa a liveserver con  una interfaz sencilla.",
-      "img": ""
+      "Url": "https://www.youtube.com/embed/Q5bFZ8lzick?si=aLiFWeL_Dp0SIvJQ&amp;controls=0"
     },
     {
       "title": "pyEndpoint",
       "description": "pyEndpoint es una herramienta escrita en python pensada para la prueba de endponts en un entorno de desarrollo, siendo una alternativa a postman: mas liviana y consumiendo menos recursos.",
-      "img": ""
+      "Url": "https://www.youtube.com/embed/C8QTCKYPD8U?si=7-2uXUz_kIFDkN_r&amp;controls=0"
     },
     {
       "title": "mailer",
       "description": "mailer es una aplicacion escrita en el framework express que utilizo para recibir correos electronicos utilizando nodemailer. El cuerpo de formuario de este portafolio se sirve de él.",
-      "img": ""
+      "Url": ""
     },
     {
       "title": "Frontend eCommerce",
       "description": "Esta es una aplicación web Frontend pensada para un ecomerce con toda la lógica principal de un flujo de compras.",
-      "img": ""
+      "Url": ""
     },
     {
       "title": "Backend eCommerce",
       "description": "Esta es una API pensada tambien para un ecomerce en la cual se implementó logica de autorización basada en JWT, aplicación de middlewares para endpoints protegidos, etc.",
-      "img": ""
+      "Url": ""
     },
     {
       "title": "GUITAR STORE Mobile eCommerce",
       "description": "esta es una aplicación hibrida escrita en react native con toda la lógica para el flujo de compras y acceso a la api nativa del dispositivo para hacer uso de la cámara, entre otras funcionalidades.",
-      "img": ""
+      "Url": "https://www.youtube.com/embed/LRvnHEybZ9E?si=tMSJYZ6NOJIMcn03&amp;controls=0"
     }
 ]
